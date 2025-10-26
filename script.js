@@ -124,9 +124,9 @@
          date: 'latest project',
          description: 'Experience the art of cooking in our luxury modular kitchens. Designed with precision for style, space, and convenience. Smart storage and seamless layouts elevate your daily routine. Crafted with premium materials for lasting beauty and function. Where design, comfort, and elegance come together perfectly.',
          media: [
-             { type: 'image', src: '/img/project-3/kitchen-1.jpeg' },
-             { type: 'image', src: '/img/project-3/kitchen-2.jpeg' },
-             { type: 'image', src: '/img/project-3/kitchen-3.jpeg' },
+             { type: 'image', src: './img/project-3/kitchen-1.jpeg' },
+             { type: 'image', src: './img/project-3/kitchen-2.jpeg' },
+             { type: 'image', src: './img/project-3/kitchen-3.jpeg' },
              { type: 'image', src: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=600&fit=crop' },
              { type: 'image', src: 'https://images.unsplash.com/photo-1556912173-3bb406ef7e77?w=800&h=600&fit=crop' },
          ]
@@ -137,11 +137,11 @@
          date: 'our latest',
          description: 'Strong, stylish, and built to last — our double doors redefine security. Engineered with high-quality materials for superior protection. Elegant designs that enhance your home’s entrance. Seamless blend of safety, beauty, and durability. Because true luxury starts with peace of mind.',
          media: [
-            { type: 'image', src: '/img/project-5/door-1.jpeg' },
-            { type: 'image', src: '/img/project-5/door-2.jpeg' },
-            { type: 'image', src: '/img/project-5/door-3.jpeg' },
-            { type: 'image', src: '/img/project-5/door-4.jpeg' },
-            { type: 'image', src: '/img/project-5/door-5.jpeg' },
+            { type: 'image', src: './img/project-5/door-1.jpeg' },
+            { type: 'image', src: './img/project-5/door-2.jpeg' },
+            { type: 'image', src: './img/project-5/door-3.jpeg' },
+            { type: 'image', src: './img/project-5/door-4.jpeg' },
+            { type: 'image', src: './img/project-5/door-5.jpeg' },
          ]
      },
      5: {
@@ -150,11 +150,11 @@
          date: 'our latest',
          description: 'Warm and inviting living room featuring a custom L-shaped sofa with premium upholstery, coffee table with storage, entertainment TV unit with display shelves, accent chairs, and floor-to-ceiling bookshelf. The design blends comfort with contemporary aesthetics.',
          media: [
-             { type: 'image', src: '/img/project-4/sofa-bed-1.jpeg' },
-             { type: 'image', src: '/img/project-4/sofa-bed-2.jpeg' },
-             { type: 'image', src: '/img/project-4/sofa-bed-3.jpeg' },
-             { type: 'image', src: '/img/project-4/sofa-bed-4.jpeg' },
-             { type: 'image', src: '/img/project-4/sofa-bed-5.jpeg' },
+             { type: 'image', src: './img/project-4/sofa-bed-1.jpeg' },
+             { type: 'image', src: './img/project-4/sofa-bed-2.jpeg' },
+             { type: 'image', src: './img/project-4/sofa-bed-3.jpeg' },
+             { type: 'image', src: './img/project-4/sofa-bed-4.jpeg' },
+             { type: 'image', src: './img/project-4/sofa-bed-5.jpeg' },
              { type: 'image', src: 'https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800&h=600&fit=crop' },
          ]
      }
